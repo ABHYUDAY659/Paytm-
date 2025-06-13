@@ -56,6 +56,15 @@ This project showcases a **real-world full-stack app**:
 - 🔁 Transfer funds form
 - 👥 User search (filter by name)
 
+<img width="1460" alt="image" src="https://github.com/user-attachments/assets/19bd9fef-63a5-4a06-81ba-3e4748a66013" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/fdfce596-c315-416f-b855-2fde66607ef6" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/39286f41-14dc-4689-b79b-7e4f1ef762cb" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/59a098c9-3abd-4efb-808a-47ffc564b0c5" />
+
+
+
+
+
 ---
 
 
